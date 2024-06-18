@@ -13,6 +13,10 @@ Movement ot not - convulsive or not
   - Siena Scalp EEG Database || https://physionet.org/content/siena-scalp-eeg/1.0.0/
 - A dataset of neonatal EEG recordings with seizures annotations || https://zenodo.org/records/1280684 (neonatal,maybe usefull)
 - University of Bonn seizure dataset (UBSD) || https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/
+- UPenn and Mayo Clinic's Seizure Detection Challenge || https://www.kaggle.com/competitions/seizure-detection/data
+- EEG Epilepsy Datasets || https://www.researchgate.net/publication/308719109_EEG_Epilepsy_Datasets
+- American Epilepsy Society Seizure Prediction Challenge || https://www.kaggle.com/competitions/seizure-prediction/data
+- Melbourne University AES/MathWorks/NIH Seizure Prediction || https://www.kaggle.com/c/melbourne-university-seizure-prediction
   
 **Large repositories**
   - [A dataset of neonatal EEG recordings with seizures annotations](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
