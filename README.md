@@ -12,6 +12,7 @@ Movement ot not - convulsive or not
   - CHB-MIT Scalp EEG Database || https://physionet.org/content/chbmit/1.0.0/
   - Siena Scalp EEG Database || https://physionet.org/content/siena-scalp-eeg/1.0.0/
 - A dataset of neonatal EEG recordings with seizures annotations || https://zenodo.org/records/1280684 (neonatal,maybe usefull)
+- University of Bonn seizure dataset (UBSD) || https://www.ukbonn.de/epileptologie/arbeitsgruppen/ag-lehnertz-neurophysik/downloads/
   
 **Large repositories**
   - [A dataset of neonatal EEG recordings with seizures annotations](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
@@ -25,3 +26,4 @@ hypoxic episodes required
 **Refenrence papers**
 - EEG datasets for seizure detection and prediction— A review || https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235576/
 - Open and free EEG datasets for epilepsy diagnosis || https://scholar.google.com.co/scholar_url?url=https://arxiv.org/pdf/2108.01030&hl=fr&sa=X&ei=yz1wZtq-CK6p6rQPit2GkAE&scisig=AFWwaeZ6_9wzR7FGHlJdNN9ZT3ll&oi=scholarr
+- Li X, Huang Y, Tao S, Cui L, Lhatoo SD, Zhang GQ. SeizureBank: A Repository of Analysis-ready Seizure Signal Data. AMIA Annu Symp Proc. 2020 Mar 4;2019:1111-1120. PMID: 32308908; PMCID: PMC7153150.
