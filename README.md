@@ -27,6 +27,8 @@ Movement ot not - convulsive or not
 Propofol or gases
 hypoxic episodes required
 - Brain connectivity during propofol sedation || https://www.repository.cam.ac.uk/items/b7817912-50b5-423b-882e-978fb39a49df
+- https://openneuro.org/datasets/ds004125/versions/1.0.0 || hypercapnia
+- https://openneuro.org/datasets/ds003754/versions/1.0.2 || Conscious-SEEG-Dataset
 ## References
 **Refenrence papers**
 - EEG datasets for seizure detection and prediction— A review || https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235576/
