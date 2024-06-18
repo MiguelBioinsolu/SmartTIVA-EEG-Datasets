@@ -4,7 +4,7 @@
 Movement ot not - convulsive or not
 - Face vs. House Discrimination: 7 Epileptic subjects were presented with 50 grayscale stimulations each for Face and House pictures. For each subject, total 3 experimental runs were conducted resulting in 300 stimulations. || https://purl.stanford.edu/xd109qh3109
 - Electroencephalography (EEG) Resources || https://isip.piconepress.com/projects/nedc/html/tuh_eeg/ || access is required (email)
-- https://bdsp.io/content/harvard-eeg-db/2.0/
+- Harvard Electroencephalography Database || https://bdsp.io/content/harvard-eeg-db/2.0/ || access is required (email)
 - HUP iEEG dataset || https://openneuro.org/datasets/ds004100/versions/1.1.3
 - Fragility Multi-Center Retrospective Study || https://openneuro.org/datasets/ds003029/versions/1.0.7
 - https://github.com/emadeldeen24/TS-TCC/tree/main
@@ -24,3 +24,4 @@ hypoxic episodes required
 ## References
 **Refenrence papers**
 - EEG datasets for seizure detection and prediction— A review || https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235576/
+- Open and free EEG datasets for epilepsy diagnosis || https://scholar.google.com.co/scholar_url?url=https://arxiv.org/pdf/2108.01030&hl=fr&sa=X&ei=yz1wZtq-CK6p6rQPit2GkAE&scisig=AFWwaeZ6_9wzR7FGHlJdNN9ZT3ll&oi=scholarr
