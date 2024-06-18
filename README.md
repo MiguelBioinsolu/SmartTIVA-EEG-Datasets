@@ -11,7 +11,8 @@ Movement ot not - convulsive or not
   - CHB-MIT Scalp EEG Database || https://physionet.org/content/chbmit/1.0.0/
   - Siena Scalp EEG Database || https://physionet.org/content/siena-scalp-eeg/1.0.0/
 - A dataset of neonatal EEG recordings with seizures annotations || https://zenodo.org/records/1280684 (neonatal,maybe usefull)
-  **Large repositories**
+  
+**Large repositories**
   - [A dataset of neonatal EEG recordings with seizures annotations](https://github.com/openlists/ElectrophysiologyData?tab=readme-ov-file#eeg-data)
   - https://openneuro.org/search?query=%7B%22keywords%22%3A%5B%22Epilepsy%22%5D%7D
   - https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html
