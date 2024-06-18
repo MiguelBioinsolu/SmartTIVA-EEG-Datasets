@@ -1,2 +1,8 @@
 # SmartTIVA-EEG-Datasets
-*ep*
+## Data
+### Epilepsy
+Movement ot not - convulsive or not
+### Anesthetized
+Propofol or gases
+hypoxic episodes required
+## References
