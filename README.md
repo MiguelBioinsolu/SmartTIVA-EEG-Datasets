@@ -26,8 +26,12 @@ Movement ot not - convulsive or not
 ### Anesthetized
 Propofol or gases
 hypoxic episodes required
+- Brain connectivity during propofol sedation || https://www.repository.cam.ac.uk/items/b7817912-50b5-423b-882e-978fb39a49df
 ## References
 **Refenrence papers**
 - EEG datasets for seizure detection and prediction— A review || https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10235576/
 - Open and free EEG datasets for epilepsy diagnosis || https://scholar.google.com.co/scholar_url?url=https://arxiv.org/pdf/2108.01030&hl=fr&sa=X&ei=yz1wZtq-CK6p6rQPit2GkAE&scisig=AFWwaeZ6_9wzR7FGHlJdNN9ZT3ll&oi=scholarr
 - Li X, Huang Y, Tao S, Cui L, Lhatoo SD, Zhang GQ. SeizureBank: A Repository of Analysis-ready Seizure Signal Data. AMIA Annu Symp Proc. 2020 Mar 4;2019:1111-1120. PMID: 32308908; PMCID: PMC7153150.
+- EEG signal diversity during propofol sedation: an increase in sedated but responsive, a decrease in sedated and unresponsive subjects
+Michał Bola, Paweł Orłowski, Martyna Płomecka, Artur Marchewka
+bioRxiv 444281; doi: https://doi.org/10.1101/444281 https://www.biorxiv.org/content/10.1101/444281v2.full.pdf
